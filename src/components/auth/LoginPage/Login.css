@@ -1,0 +1,10 @@
+.form-container {
+    display: grid;
+    place-content: center;
+    min-height:100vh;
+    padding:2em;
+};
+
+.form-box {
+    width:40%;
+}

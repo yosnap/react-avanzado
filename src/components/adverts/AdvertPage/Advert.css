@@ -1,0 +1,14 @@
+.advert-detail {
+    max-width:100vw;
+    padding:2em;
+    display:grid;
+    place-content: center;
+}
+
+article {
+    width:60rem;
+}
+
+article>img{
+    margin: 1em 0;
+}
